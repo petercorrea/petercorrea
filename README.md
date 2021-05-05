@@ -1,7 +1,6 @@
-👋
-I'm Peter
+👋 I'm Peter
 
-As a Software Engineer, I build software. I work at a product studio designing bespoke solutions. 
+As a Software Engineer, I build software.
 Each project requires discussing the scope and goal of each solution, sharing tradeoffs between different implementations, 
 establishing milestones, collaborating with designers, and deploying high-quality code. 
 Ultimately, my role is to improve lives and impact companies through software.
