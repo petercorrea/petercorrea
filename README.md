@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a software engineer but I don't write code...I impact lives through software.
+I'm a software engineer but I don't write code...I help clean the planet.
 
 At RoadRunner, we're building technology and tools to help clean planet Earth. We build end-to-end solutions to connect organizations with haulers to offload and more effectively manage the proper disposal of waste and hazardous materials and reduce costs. 
 
