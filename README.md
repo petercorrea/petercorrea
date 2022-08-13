@@ -25,8 +25,16 @@
 
 ## About Me
 
+I'm a software engineer but I don't write code...I impact lives through software.
+
+At RoadRunner, we're building technology and tools to help clean planet Earth. We build end-to-end solutions to connect organizations with haulers to offload and more effectively manage the proper disposal of waste and hazardous materials and reduce costs. 
+
 I build software. My work requires discussing the scope and goal of each solution, sharing tradeoffs between different implementations, establishing milestones, and deploying high-quality code. A typical day involves optimizing algorithmic and network performance, deploying servers, migrating databases, integrating APIs, building machine learning models, interviewing candidates, collaborating with designers, presenting to management, and researching standardized specifications. When I'm not working on products I'm leading teams, managing talent, and driving operations. Currently studying electrical engineering, systems programming, and embedded development.
 
 Skills: JavaScript, Python, Typescript, React, Node.js, AWS, GraphQL, Postgres, SQL, MongoDB, Docker, DataDog, Contently, CodeFlow, Jenkins, Jest, Next.js, Git, HTML, SASS, CSS, and more. 
 
 petercorrea.com
+
+linkedin.com/in/petercorrea/
+
+contact@petercorrea.com
