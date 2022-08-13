@@ -29,7 +29,7 @@
 
 I'm a software engineer but I don't write code...I help clean the planet.  
 
-At RoadRunner, we're building technology and tools to help clean planet Earth. We build end-to-end solutions to enable factories, restaurants, stores and more to effectively manage the proper disposal of waste and hazardous materials and reduce costs. 
+At RoadRunner, we're building technology and tools to help clean planet Earth. We build end-to-end solutions to enable factories, restaurants, stores and organizations to effectively manage the proper disposal of waste and hazardous materials, and reduce costs. 
 
 My work requires discussing the scope and goal of each solution, sharing tradeoffs between different implementations, establishing milestones, and deploying high-quality code. A typical day involves optimizing algorithmic and network performance, deploying servers, migrating databases, integrating APIs, building machine learning models, interviewing candidates, collaborating with designers, presenting to management, and researching standardized specifications. When I'm not working on products I'm leading teams, managing talent, and driving operations. Currently studying electrical engineering, systems programming, and embedded development.
 <br></br>
