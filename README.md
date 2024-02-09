@@ -25,13 +25,15 @@
 <br></br>
 
 
-## ♻️  About Me
+##  About Me
 
-I'm a software engineer but I don't write code...I help clean the planet.  
+Hello, World! I'm Peter, a Software Engineer based in Florida. A bit about me, my career began in retail management and operations. However, coding eventually piqued my interest and led me to join a software engineering bootcamp. Soon after, I was working in the field and I’m now pursuing an M.S. in Electrical Engineering. 
 
-At RoadRunner, we're building technology and tools to help clean planet Earth. We build end-to-end solutions to enable factories, restaurants, stores and organizations to effectively manage the proper disposal of waste and hazardous materials, and reduce costs. 
+My day-to-day responsibilities can vary widely. They include deploying full-stack applications, migrating databases, improving developer experiences, writing test cases, and integrating APIs. When I'm not coding, I'm collaborating with designers and stakeholders, presenting to staff, conducting code reviews, interviewing candidates, mentoring peers, and onboarding new team members. I've worked on a range of notable projects, from in-house billing services and vendor marketplaces to personalization platforms. My work spans mobile apps for a few hundred users to web apps that reach several million across the globe.
 
-My work requires discussing the scope and goal of each solution, sharing tradeoffs between different implementations, establishing milestones, and deploying high-quality code. A typical day involves optimizing algorithmic and network performance, deploying servers, migrating databases, integrating APIs, building machine learning models, interviewing candidates, collaborating with designers, presenting to management, and researching standardized specifications. When I'm not working on products I'm leading teams, managing talent, and driving operations. Currently studying electrical engineering, systems programming, and embedded development.
+My most common tools include: JavaScript/TypeScript, Python, C, SQL, HTML, CSS, React, Nest.js, Next.js, Solid.js, Jest, GraphQL, Node.js, Postgres, MongoDB, RabbitMQ, Redis, NumPy, Pandas, SciKit Learn, AWS, Digital Ocean, Heroku, Google Cloud, DataDog, New Relic, Docker, Linux, Make, Yocto, Buildroot, CodeClimate, SonarCloud, Optimizely, GitHub Actions & Spaces.
+
+Beyond general software engineering, I occasionally explore areas like cryptography, game theory, embedded systems, machine learning and playing the saxophone. 
 <br></br>
 
 ## Contact
